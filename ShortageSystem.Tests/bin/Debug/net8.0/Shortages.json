@@ -1,0 +1,11 @@
+[
+  {
+    "Title": "New Shortage",
+    "Name": "John Doe",
+    "Category": "Electronics",
+    "Room": "MeetingRoom",
+    "Priority": 5,
+    "CreatedOn": "2024-09-10",
+    "CreatedBy": "admin"
+  }
+]
